@@ -12,3 +12,8 @@ The factory pattern has been implemented within the planet collector game to han
 The delegation class has been used in the Planet Collector application to handle the delegation between the player class and the player explode class. This pattern is useful when an object is required to be of a different subclass at different points in the application.
 
 The strategy pattern has been used in the Planet Collector application to handle the movement of the enemy and planet objects within the game. The idea of the strategy pattern is to encapsulate the movement behaviour of an enemy object into a separate class rather than having the algorithm in the main class, this enables different movement strategies to be implemented for an enemy at different points in the games run cycle. This encapsulation of object behaviour also enables the easy addition of new strategies if required.
+
+Below is a short demonstration video of the application running:
+
+https://user-images.githubusercontent.com/71389146/185395006-2a1ddbb2-d0cd-4f1f-9c44-a4d56397ce1e.mp4
+
